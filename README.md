@@ -1,7 +1,7 @@
 ## Server Files For Elearning Android Application
 
 ## Usage
-<ul>Clone the repository into your system.</ul>
+- Clone the repository into your system.
 <ul>
 <b>Commands :</b>
 <ul>git clone (url https://...)</ol>
