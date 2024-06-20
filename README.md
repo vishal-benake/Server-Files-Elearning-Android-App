@@ -15,7 +15,7 @@
 
 ## Instagram
 <h4>If you like, Do follow me on Instagram.</h4>
-[Instagram](https://www.instagram.com/_vishal_benake"My Instagram Account")
+[Instagram](https://instagram.com/_vishal_benake"My Instagram Account")
 
 ## LICENSE
 [License](License)
