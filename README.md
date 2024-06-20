@@ -3,13 +3,13 @@
 ## Usage
 - Clone the repository into your system.
 - <b>Commands :</b>
-  1. git clone (url https://...)
+  1. <i>git clone (url https://...)</i>
 - Upload all php files to your specific web hosting.
 - Create phpMyAdmin Database from cpanel of your web hosting.
 - Enter the details of database into DatabaseConfig.php file.
-1. Enter Database Name
-2. Enter Database Username
-3. Enter Database Password
+1. <i>Enter Database Name</i>
+2. <i>Enter Database Username</i>
+3. <i>Enter Database Password</i>
 - Import the provided sql file into the phpMyAdmin Database.
 - Hurahh!! You successfully connected Database with Php Files.
 
