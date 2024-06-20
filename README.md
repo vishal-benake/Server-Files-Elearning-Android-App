@@ -1,4 +1,4 @@
-## Server Files For Elearning Android Application
+## Server Files For Elearning Android Application     ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 ## Usage
 - <h4>Clone the repository into your system.</h4>
@@ -22,4 +22,4 @@
 <a href="https://www.instagram.com/_vishal_benake">Instagram</a>
 
 ## LICENSE
-[License](License)
+ ![License](https://img.shields.io/badge/License-MIT-blue.svg)
