@@ -2,10 +2,8 @@
 
 ## Usage
 - Clone the repository into your system.
-<ul>
-<b>Commands :</b>
-<ul>git clone (url https://...)</ol>
-</ul>
+- <b>Commands :</b>
+<ol>git clone (url https://...)</ol>
 <ul>Upload all php files to your specific web hosting.</ul>
 <ul>Create phpMyAdmin Database from cpanel of your web hosting.</ul>
 <ul>Enter the details of database into DatabaseConfig.php file.
