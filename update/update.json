@@ -1,0 +1,25 @@
+{
+    "loader":{
+        "version": "1.0"
+    },
+    "announce_ttl": {
+        "name": "Welcome to Studyroom, click here to join our offical website for more announcement\n\n🔔  Studyroom is E-Learning\n       Application Specially Developed\n       for Git Students!\n\n🔔  StudyRoom Will Soon support\n        for every semester!\n\n🔔  This is Beta Version Of\n        Studyroom!\n\n🔔  Do Visit Developers Insight to\n       know more about the developer\n       team of StudyRoom!"
+    },
+  "update_ttl": {
+        "name": "- Fixed Bugs and Improved Security Mechanism"
+    },
+    "weather32": {
+        "typeWeather": "Snow"
+    },
+    "status64bit": {
+        "name": "Safe"
+    },
+    "plugin64": {
+        "version": "1.0.0",
+        "url": "https://vishalmonster.000webhostapp.com/plugin/plugin64.apk"
+    },
+    "ismaintenance": {
+        "version": "Server under Maintenance!",
+        "name": "false"
+    }
+}
