@@ -3,7 +3,7 @@
 ## Usage
 - <h4>Clone the repository into your system.</h4>
 - <h3>Commands :</h3>
-  1. <h6><i>git clone (url https://...)</i></h6>
+  <h6><i>git clone (url https://...)</i></h6>
 - <h4>Upload all php files to your specific web hosting.</h4>
 - <h4>Create phpMyAdmin Database from cpanel of your web hosting.</h4>
 - <h4>Enter the details of database into DatabaseConfig.php file.</h4>
