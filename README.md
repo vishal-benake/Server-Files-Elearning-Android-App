@@ -1,17 +1,17 @@
 ## Server Files For Elearning Android Application
 
 ## Usage
-- <h5>Clone the repository into your system.</h5>
-- <b>Commands :</b>
+- <h4>Clone the repository into your system.</h4>
+- <h3><b>Commands :</b></h3>
   1. <h6><i>git clone (url https://...)</i></h6>
-- <h5>Upload all php files to your specific web hosting.</h5>
-- <h5>Create phpMyAdmin Database from cpanel of your web hosting.</h5>
-- <h5>Enter the details of database into DatabaseConfig.php file.</h5>
+- <h4>Upload all php files to your specific web hosting.</h4>
+- <h4>Create phpMyAdmin Database from cpanel of your web hosting.</h4>
+- <h4>Enter the details of database into DatabaseConfig.php file.</h4>
 1. <h6><i>Enter Database Name</i></h6>
 2. <h6><i>Enter Database Username</i></h6>
-3. <i>Enter Database Password</i>
-- <h5>Import the provided sql file into the phpMyAdmin Database.</h5>
-- <h5><b>Hurahh!!</b> You successfully connected Database with Php Files.</h5>
+3. <h6><i>Enter Database Password</i></h6>
+- <h4>Import the provided sql file into the phpMyAdmin Database.</h4>
+- <h4><b>Hurahh!!</b> You successfully connected Database with Php Files.</h4>
 
 ## Instagram
 <h4>If you like, Do follow me on Instagram.</h4>
