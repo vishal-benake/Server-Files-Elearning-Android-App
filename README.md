@@ -1,9 +1,20 @@
-## Server Files For Elearning Android Application     ![License](https://img.shields.io/badge/License-MIT-blue.svg)
+## Server Files For Elearning Android Application  
 
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- 
+## Installation
+- <h3>Commands :</h3>
+```bash
+  git clone https://github.com/vishal-benake/Server-Files-Elearning-Android-App.git
+```
 ## Usage
 - <h4>Clone the repository into your system.</h4>
-- <h3>Commands :</h3>
-  <h6><i>git clone (url https://...)</i></h6>
 - <h4>Upload all php files to your specific web hosting.</h4>
 - <h4>Create phpMyAdmin Database from cpanel of your web hosting.</h4>
 - <h4>Enter the details of database into DatabaseConfig.php file.</h4>
