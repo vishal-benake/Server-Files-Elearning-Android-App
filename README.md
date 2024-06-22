@@ -7,7 +7,7 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
-- 
+  
 ## Installation
 - <h3>Commands :</h3>
 ```bash
