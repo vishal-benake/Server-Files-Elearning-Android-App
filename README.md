@@ -32,5 +32,7 @@
 <h4>If you like, Do follow me on Instagram.</h4>
 <a href="https://www.instagram.com/_vishal_benake">Instagram</a>
 
-## LICENSE
+## License
  ![License](https://img.shields.io/badge/License-MIT-blue.svg)
+
+This project is licensed under the MIT License.
